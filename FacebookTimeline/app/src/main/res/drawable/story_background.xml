@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/darker_gray"/> <!-- لون الخلفية -->
+            <corners android:radius="10dp"/> <!-- تحديد قيمة الـ radius هنا -->
+        </shape>
+    </item>
+
+</shape>
